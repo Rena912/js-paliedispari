@@ -1,4 +1,4 @@
-const parolaUtente = prompt('Inserisci una parola')
+// const parolaUtente = prompt('Inserisci una parola')
 console.log(invertiParola(parolaUtente))
 
 
